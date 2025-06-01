@@ -22,13 +22,18 @@ Le projet est divisé en deux grandes parties :
 
 
 
-#Structure du projet
+# Structure du projet
 
 📁 project-hotel/
+
 ├── app.py # Interface Streamlit
+
 ├── init_db.py # Script de création de la base de données
+
 ├── projet_hotel.db # Base de données SQLite générée
+
 ├── README.md # Ce fichier
+
 
 
 # Base de données

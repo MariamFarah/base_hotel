@@ -22,7 +22,7 @@ Le projet est divisé en deux grandes parties :
 
 
 
-Structure du projet
+#Structure du projet
 
 📁 project-hotel/
 ├── app.py # Interface Streamlit
@@ -46,7 +46,7 @@ Les tables suivantes sont utilisées :
 
 
 
-  📂 Menu de l'application
+# 📂 Menu de l'application
   
    ACCEUIL
   
